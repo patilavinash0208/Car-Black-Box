@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>car_black_box</name>
+            <creation-uuid>fa6675b9-de06-4c3a-98ff-b9c196aa7463</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions/>
+            <cpp-extensions/>
+            <header-extensions>c,h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>../../OneDrive/Desktop/MC/CAN_Based_Automotive_headers/CAN_Based_Automotive_headers/Dashboard_ECU3_headers/Dashboard_ECU3_headers</sourceRootElem>
+                <sourceRootElem>../../OneDrive/Desktop/MC/CAN_Based_Automotive_headers/CAN_Based_Automotive_headers/ECU1_headers/ECU1_headers/ECU1_headers</sourceRootElem>
+                <sourceRootElem>../../OneDrive/Desktop/MC/UPDATED_MC_184580_Projects/UPDATED_MC_184580_Projects/9-Matrix_keypad.X</sourceRootElem>
+                <sourceRootElem>../../OneDrive/Desktop/MC/UPDATED_MC_184580_Projects/UPDATED_MC_184580_Projects/12-I2C.X</sourceRootElem>
+                <sourceRootElem>.</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
